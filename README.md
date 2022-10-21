@@ -1,4 +1,5 @@
 # This is the project for our shopcarts team
+[![codecov](https://codecov.io/gh/Yvonne98XU/shopcarts/branch/main/graph/badge.svg?token=8L8B46E60A)](https://codecov.io/gh/Yvonne98XU/shopcarts)
 
 ## Important: Before you submit a pull request. Make sure
 
